@@ -1,0 +1,37 @@
+{
+	"info": {
+		"id": "multi.nhentai",
+		"lang": "multi",
+		"name": "NHentai",
+		"version": 4,
+		"url": "https://nhentai.to/",
+		"nsfw": 2
+	},
+	"languageSelectType": "single",
+	"languages": [
+		{
+			"code": "en",
+			"default": true
+		},
+		{
+			"code": "ja"
+		},
+		{
+			"code": "zh"
+		}
+	],
+	"listings": [
+		{
+			"name": "Latest"
+		},
+		{
+			"name": "Popular - Today"
+		},
+		{
+			"name": "Popular - This Week"
+		},
+		{
+			"name": "Popular - All Time"
+		}
+	]
+}

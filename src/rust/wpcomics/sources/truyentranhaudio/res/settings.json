@@ -1,0 +1,26 @@
+[
+	{
+		"type": "group",
+		"title": "Settings",
+		"items": [
+			{
+				"type": "select",
+				"key": "sourceURL",
+				"title": "Source",
+				"values": [
+					"https://truyentranhaudio.info",
+					"https://truyentranhaudio.com",
+					"https://truyen86.com",
+					"https://vcomic.net"
+				],
+				"titles": [
+					"https://truyentranhaudio.info",
+					"https://truyentranhaudio.com",
+					"https://truyen86.com",
+					"https://vcomic.net"
+				],
+				"default": "https://truyentranhaudio.info"
+			}
+		]
+	}
+]
